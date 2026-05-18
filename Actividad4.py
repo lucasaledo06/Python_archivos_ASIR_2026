@@ -45,4 +45,4 @@ modificar_mutable(mi_lista)
 
 print(f"\n[P] Lista DESPUES de la llamada: {mi_lista}")
 print(f"[P] ID DESPUÉS de la llamada: {id(mi_lista)}")
-print("Conclusion: El valor sf ha cambiado fuera de la funcion (Paso por Referencia).\n")
+print("Conclusion: El valor se ha cambiado fuera de la funcion (Paso por Referencia).\n")
